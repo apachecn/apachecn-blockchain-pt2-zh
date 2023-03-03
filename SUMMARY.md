@@ -1,6 +1,6 @@
 +   [比特币和加密货币技术](docs/btc-crycur-tech/READNE.md)
 	+   [零一、前言](docs/btc-crycur-tech/00.md)
-	+   [零二、前言](docs/btc-crycur-tech/01.md)
+	+   [零二、引言](docs/btc-crycur-tech/01.md)
 	+   [一、密码学和加密货币简介](docs/btc-crycur-tech/02.md)
 	+   [二、比特币如何实现去中心化](docs/btc-crycur-tech/03.md)
 	+   [三、比特币的机制](docs/btc-crycur-tech/04.md)
