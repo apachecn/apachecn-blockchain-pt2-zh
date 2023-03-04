@@ -1,3 +1,3 @@
-# 去媒经济学
+# 脱媒经济学
 
 Disintermediation Economics
